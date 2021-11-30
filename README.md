@@ -1,1 +1,1 @@
-# sbi-accounts
+# sbi_accounts
